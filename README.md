@@ -6,33 +6,32 @@
 
 <hr>
 
-### 👋 Hello! I'm **Youssef El Hassani** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-A student passionate about programming 🚀. Currently learning **C++**, **OOP** and problem-solving using **Visual Studio** to build my skills 💻.  
-Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improving my skills, and sharing my progress with the community.
+### 👋 About Me
+I'm a student at [Programming Advice School](https://programmingadvices.com/), currently learning Software Engineering and building projects to strengthen my skills and gain hands-on experience.
+I’m passionate about coding, problem-solving, and continuous learning, always aiming to become a better developer every day 🚀
 
 ---
 
-### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW4w/giphy.gif" width="30">
-<div align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+### 🧩 Technologies & Frameworks
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="Microsoft SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" height="45" alt=".NET Framework" />
 </div>
 
 ---
 
-### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
-- [Project 1 ( Stone - Paper - Scissor )](https://github.com/AhmedYaser-Mt/Project-1-Stone---Paper---Scissor-)
-- [Project 2 ( Math Game )](https://github.com/AhmedYaser-Mt/Project-2-Math-Game-)
-- [Project 3 ( Banking System )](https://github.com/AhmedYaser-Mt/Project-3-Bank-1-)
-- [Project 4 ( ATM System )](https://github.com/AhmedYaser-Mt/Project-4-ATM-System-)
-- [Project 12 ( Banking System - OOP )](https://github.com/AhmedYaser-Mt/Project-12-Bank-System_OOP_)
+### 💻 Some Projects 
+
 
 ---
 
-### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
-- 10 - OOP as it should be (concepts) (Programming Advices)
-- Completed 9+ courses in Abu-Hadhoud Roadmap (Programming Advices)
-- Solved 400+ programming problems
+## 🏆 Achievements & Certificates
+
+- 🎓 **Completed 18 courses** at [ProgrammingAdvices.com](https://programmingadvices.com), covering C++, C#, OOP, data structures, algorithms and problem solving, database and clean code principles.
+  📁 [View all certificates on GitHub](https://github.com/codebyyoussef/Certificates.git)
+- 🧠 **Solved 400+ programming challenges** on [Codewars](https://www.codewars.com/users/Youssef%20El%20Hassani)
 
 ---
 
@@ -43,64 +42,6 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 - Practicing with small projects 🛠️  
 - Improving my professional profile on **GitHub** and **LinkedIn**
 
----
-
-<div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
-</div>
-
----
-
-<div align="center"> 
-  <table> 
-    <tr> 
-      <td> 
-        <img src="https://github-readme-stats.vercel.app/api?username=AhmedYaser-Mt&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&v=1" alt="AhmedYaser-Mt's GitHub stats" /> 
-      </td> 
-      <td> 
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedYaser-Mt&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" /> 
-      </td> 
-    </tr> 
-  </table> 
-  <br> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYaser-Mt&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" /> 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=AhmedYaser-Mt&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
 
 
----
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/AhmedYaser-Mt?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
-</p>
-
----
-
-### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
-<div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-yaser-mt">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ahmed.yaser.mt@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/201014842264">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</div>
-
----
-
-```cpp
-// Focused on mastering the stack
-class AhmedYaserMt {
-public:
-  string university = "Benha University";
-  string track = "Full Stack Developer";
-  string passion = "Problem Solving & Building Projects";
-  void sayHi() { cout << "Thanks for visiting my profile! 🚀"; }
-};

@@ -37,10 +37,7 @@ I’m passionate about coding, problem-solving, and continuous learning, always 
 
 ### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
 - **Abu-Hadhoud Roadmap**
-- Mastering **C++** & **OOP** 💡  
-- Algorithms and Problem Solving  
-- Practicing with small projects 🛠️  
-- Improving my professional profile on **GitHub** and **LinkedIn**
+- Building Driving License Management(DVLD) project.
 
 
 
